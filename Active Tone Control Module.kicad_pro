@@ -444,11 +444,11 @@
   },
   "pcbnew": {
     "last_paths": {
-      "gencad": "",
+      "gencad": "Active Tone Control Module.cad",
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "Active Tone Control Module.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
